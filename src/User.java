@@ -5,6 +5,7 @@ public class User {
 	
 	public int getAge() {
 		return age + 40;
+		return age + 4;
 	}
 	public void setAge(int age) {
 		this.age = age;

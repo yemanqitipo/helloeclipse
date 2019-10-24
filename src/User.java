@@ -4,13 +4,13 @@ public class User {
 	private String name;
 	
 	public int getAge() {
-		return age + 1;
+		return age + 2;
 	}
 	public void setAge(int age) {
 		this.age = age;
 	}
 	public String getName() {
-		return name + ", hi, hi";
+		return name + ", hi";
 	}
 	public void setName(String name) {
 		this.name = name;

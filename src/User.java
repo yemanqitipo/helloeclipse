@@ -10,7 +10,7 @@ public class User {
 		this.age = age;
 	}
 	public String getName() {
-		return name + ", hi";
+		return name + ", hi, hi";
 	}
 	public void setName(String name) {
 		this.name = name;

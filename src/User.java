@@ -15,6 +15,4 @@ public class User {
 	public void setName(String name) {
 		this.name = name;
 	}
-	public void ete(String name) {
-		this.ame = ame;
 }

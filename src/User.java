@@ -16,5 +16,6 @@ public class User {
 		this.name = name;
 	}
 	public void ete(String name) {
-		this.ame = ame;
+		this.name = name;
+	}
 }

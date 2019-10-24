@@ -4,8 +4,7 @@ public class User {
 	private String name;
 	
 	public int getAge() {
-		return age + 40;
-		return age + 4;
+		return age + 6;
 	}
 	public void setAge(int age) {
 		this.age = age;

@@ -17,5 +17,6 @@ public class User {
 	}
 	public void ete(String name) {
 		this.name = name;
+		int m = 0;
 	}
 }
